@@ -1,0 +1,30 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Electron build files
+dist/
+out/
+build/
+
+# Compiled binaries
+*.exe
+*.dll
+*.app
+*.deb
+*.rpm
+
+# Logs and cache
+logs/
+*.log
+debug.log
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Environment variables (if any)
+.env

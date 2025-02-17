@@ -1,0 +1,26 @@
+{
+  "name": "pokemonattackcalculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "build": "electron-builder"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinkucaba/PokemonAttackCalculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinkucaba/PokemonAttackCalculator/issues"
+  },
+  "homepage": "https://github.com/kevinkucaba/PokemonAttackCalculator#readme",
+  "devDependencies": {
+    "electron": "^34.2.0",
+    "electron-builder": "^25.1.8"
+  }
+}
